@@ -1,0 +1,11 @@
+Theme,Topics,Keywords,# Questions,Score (median),Views (median),Favourite (median),AnsCount (median),Avg. Acc. Ans Count,Comments (median),PD Score
+PM Management,Dependency,"{'dependency, maven, repository, jar, local, add, artifact, project, pom, resolve', 'version, change, release, update, dependency, number, specific, late, wrong, check'}",40519,1,420,0,1,0.480021718,1,0.24
+PM Management,Build,"{'file, jar, folder, resource, directory, maven, create, path, property, generate', 'project, maven, build, create, generate, module, source, multiple, profile, add'}",27191,1,409,0,1,0.459269611,1,0.24
+PM Management,Configuration,"{'package, nuget, project, add, reference, install, net, library, update, core', 'package, install, instal, environment, import, find, module, work, set, window'}",26748,1,348,0,1,0.44736055,1,0.29
+PM Management,Error,"{'install, gem, error, instal, rail, fail, puppet, window, issue, work', 'error, find, class, fail, give, exception, module, throw, load, unable'}",25731,1,447,0,1,0.440868991,1,0.22
+PM Management,Testing,"{'run, test, maven, command, fail, line, execute, plugin, script, build'}",14194,1,440.5,0,1,0.447935747,1,0.23
+Input-Output,Server-Client,"{'server, client, meteor, request, http, call, send, connection, access, user'}",13770,1,319,0,1,0.479883805,1,0.31
+Input-Output,Interface,"{'file, time, write, image, read, output, process, multiple, goroutine, code'}",12582,1,277,0,1,0.534970593,1,0.36
+Input-Output,Service,"{'application, deploy, run, spring, web, app, work, server, start, project'}",13256,0,405,0,1,0.428937839,1,0.25
+Package,Package usage,"{'meteor, collection, object, mongodb, update, database, return, field, user, document', 'meteor, template, work, page, react, change, event, render, helper, datum'}",26226,0,216,0,1,0.526271639,1,0.46
+Package,Package function,"{'type, function, struct, string, variable, interface, slice, return, pass, map'}",14392,1,284,0,1,0.643135075,1,0.35
