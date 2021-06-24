@@ -18,12 +18,12 @@ Our work lays out future directions to investigate the trade-offs involved in de
 ─
 ```
 ## Contents:
-  1. [Dataset](https://github.com/syful-is/Package_management_system/tree/master/Dataset)- is a folder that contains the dataset for `NS project`.
+  1. [Dataset](https://github.com/syful-is/Package_management_system/tree/master/Dataset)- is a folder that contains the dataset for `PM project`.
   2. [Scripts](https://github.com/syful-is/Package_management_system/tree/master/Scripts)- is a folder that contains the all the codes. 
   3. [Results](https://github.com/syful-is/Package_management_system/tree/master/Results)- is a folder that contains the results obtained from dataset.
 
 ## How to run:
-  1. Clone the repository from [here](https://github.com/syful-is/Package_management_system.git) and the Dataset from [here]()
+  1. Clone the repository from [here](https://github.com/syful-is/Package_management_system.git) and the Dataset from [here](https://github.com/syful-is/Package_management_system/tree/master/Dataset)
   2. Extract the files.
   3. Open `Jupyter Notebook` or `Python Spyder`.
   4. Copy any code and Set your working directory using 
