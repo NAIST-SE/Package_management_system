@@ -1,13 +1,15 @@
-# Package_management_system
-# Research Artifact: Choice Matters: Contrasting Package Manager User Experience
+# Package_ecosystem
+# Research Artifact: Contrasting Third-Party Package User Experience
 ## Link: [https://github.com/syful-is/Package_management_system.git](https://github.com/syful-is/Package_management_system.git)
 
 ## Abstract
-A package manager (PM) is crucial to most technology stacks, acting as a broker to ensure that a verified dependency package is correctly installed, configured, or removed from an application. Diversity in technology stacks has led to dozens of PMs with various features.
-While recent studies have shown that developers struggle to migrate their dependencies, the common assumption is that PMs are used without any issue. 
-In this study, we explore sixteen PMs to understand whether their features correlate with the experience of their users.
-By studying experience through the questions that developers ask on the question-and-answer site Stack Overflow, we find that developer questions are  grouped into three themes (i.e., PM management, Input-Output, and Package Usage). Our analysis results indicate that specific features are correlated with the user experience.
-Our work lays out future directions to investigate the trade-offs involved in designing the ideal PM.
+The management of third-party packages is crucial to most technology stacks, acting as a broker to ensure that a verified dependency package is correctly installed, configured, or removed from an application.
+Diversity in technology stacks has led to dozens of package ecosystems with their own features of management.
+While recent studies have shown that developers struggle to migrate their dependencies, the common assumption is that package ecosystems are used without any issue. 
+In this study, we explore package ecosystems thirteen understand whether their features correlate with the experience of their users.
+By studying experience through the questions that developers ask on the question-and-answer site Stack Overflow, we find that developer questions are  grouped into three themes (i.e., Package management, Input-Output, and Package Usage).
+Our analysis results indicate that specific features are correlated with the user experience.
+Our work lays out future directions to investigate the trade-offs involved in designing the ideal package ecosystem.
     
 ## Replication package Structure:
 ```
